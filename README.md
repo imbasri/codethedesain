@@ -12,4 +12,4 @@ Preview :
 
 [logo]: https://github.com/imbasri/codethedesain/blob/master/src/assets/img/img_preview.png?raw=true "Holadok Laptop/Desktop 1440px"
 
-desain Holadok : [Click here](https://www.figma.com/community/file/1186316679638101335 "Holadok Figma by Nauval")
+design Holadok : [Click here](https://www.figma.com/community/file/1186316679638101335 "Holadok Figma by Nauval")
